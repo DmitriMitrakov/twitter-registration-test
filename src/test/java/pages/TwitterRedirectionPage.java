@@ -4,8 +4,8 @@ import org.openqa.selenium.WebDriver;
 
 public class TwitterRedirectionPage extends PageObject {
 	
-	private static final String GREETING = "Рады вас видеть";
-	private static final String PHONE_CHECK = "Проверка номера телефона";
+	private static final String GREETING = "Р Р°РґС‹ РІР°СЃ РІРёРґРµС‚СЊ";
+	private static final String PHONE_CHECK = "РџСЂРѕРІРµСЂРєР° РЅРѕРјРµСЂР° С‚РµР»РµС„РѕРЅР°";
 
 	public TwitterRedirectionPage(WebDriver driver) {
 		super(driver, null);
