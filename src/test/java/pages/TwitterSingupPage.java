@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 public class TwitterSingupPage extends PageObject {
 	
 	static final String URL = "https://twitter.com/signup";
-	public static final String WRONG_EMAIL_HINT = "Вы ввели неверный адрес электронной почты.";
+	public static final String WRONG_EMAIL_HINT = "Р’С‹ РІРІРµР»Рё РЅРµРІРµСЂРЅС‹Р№ Р°РґСЂРµСЃ СЌР»РµРєС‚СЂРѕРЅРЅРѕР№ РїРѕС‡С‚С‹.";
 
 	public TwitterSingupPage(WebDriver driver) {
 		super(driver, URL);
